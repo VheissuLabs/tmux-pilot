@@ -4,6 +4,8 @@ A lightweight, dependency-free session manager for tmux.
 
 ![tmux-pilot](https://img.shields.io/badge/tmux-plugin-blue)
 
+![screenshot](screenshot.webp)
+
 ## Features
 
 - **Zero dependencies** - Pure bash, no fzf or other tools required
